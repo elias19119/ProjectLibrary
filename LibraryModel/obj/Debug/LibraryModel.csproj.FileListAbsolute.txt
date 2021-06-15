@@ -1,0 +1,16 @@
+C:\Project\ProjectLibrary\ProjectLibrary\LibraryModel\bin\Debug\LibraryModel.dll
+C:\Project\ProjectLibrary\ProjectLibrary\LibraryModel\bin\Debug\LibraryModel.pdb
+C:\Project\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.csprojAssemblyReference.cache
+C:\Project\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.dll
+C:\Project\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.pdb
+C:\Users\Gebruiker\Desktop\ProjectLibrary\ProjectLibrary\LibraryModel\bin\Debug\LibraryModel.dll
+C:\Users\Gebruiker\Desktop\ProjectLibrary\ProjectLibrary\LibraryModel\bin\Debug\LibraryModel.pdb
+C:\Users\Gebruiker\Desktop\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.dll
+C:\Users\Gebruiker\Desktop\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.pdb
+C:\Project\ProjectLibrary\ProjectLibrary\ProjectLibrary\ProjectLibrary\LibraryModel\bin\Debug\LibraryModel.dll
+C:\Project\ProjectLibrary\ProjectLibrary\ProjectLibrary\ProjectLibrary\LibraryModel\bin\Debug\LibraryModel.pdb
+C:\Project\ProjectLibrary\ProjectLibrary\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.csprojAssemblyReference.cache
+C:\Project\ProjectLibrary\ProjectLibrary\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.dll
+C:\Project\ProjectLibrary\ProjectLibrary\ProjectLibrary\ProjectLibrary\LibraryModel\obj\Debug\LibraryModel.pdb
